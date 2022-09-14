@@ -24,7 +24,7 @@ spring:
 #              default:
 #                type: br.com.erudio.dtos.MessageConsumerDTO
 #    bootstrap-servers: localhost:9091
-
+#tesetando
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://ec2-44-204-187-112.compute-1.amazonaws.com:3336/cambio_service?useTimezone=true&serverTimezone=UTC
